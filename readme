@@ -1,0 +1,3 @@
+This tool lets you grab a bunch of activities from multiple activity streams on Google+. Set idlist to a list of G+ ids and it'll go fetch posts, shares, etc.
+
+Output is tab-delimited. You can pipe it, save the output, cut-and-paste or customize the code to suit your needs.
